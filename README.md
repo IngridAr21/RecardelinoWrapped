@@ -1,6 +1,6 @@
 # Recardelino Wrapped – Juanjo Bona Album Listening Analytics
 
-A personalized **Spotify Wrapped** style project focused on the album *Recardelino* by Juanjo Bona. This project analyzes Spotify Extended Streaming History data to generate insightful listening summaries and key metrics, designed as a gift for the fandom and a portfolio showcase.
+A personalized **Spotify Wrapped** style project focused on the album *Recardelino* by Juanjo Bona. This project analyzes Spotify Extended Streaming History data to generate insightful listening summaries and key metrics.
 
 ---
 
@@ -27,5 +27,3 @@ Planned features include:
 - Shareable summaries and social media-friendly reports
 
 
-
--
